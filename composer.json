@@ -1,0 +1,15 @@
+{
+    "name": "melioka/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Melioka\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Meliokai",
+            "email": "malyano_va@mail.ru"
+        }
+    ],
+    "require": {}
+}
